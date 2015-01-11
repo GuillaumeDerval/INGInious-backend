@@ -1,0 +1,5 @@
+.*
+!.gitignore
+!.pydevproject
+!.project
+*.py[cod]
